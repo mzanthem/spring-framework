@@ -56,7 +56,7 @@ import org.springframework.lang.Nullable;
 public class FileSystemXmlApplicationContext extends AbstractXmlApplicationContext {
 
 	/**
-	 * Create a new FileSystemXmlApplicationContext for bean-style configuration.
+	 * Create a new FileSystemXmlApplicationContext for bean-style CONFIGURATION.
 	 * @see #setConfigLocation
 	 * @see #setConfigLocations
 	 * @see #afterPropertiesSet()
