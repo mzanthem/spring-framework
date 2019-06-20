@@ -323,6 +323,7 @@ public class ProxyFactoryBean extends ProxyCreatorSupport
 		return this.singletonInstance;
 	}
 
+
 	/**
 	 * Create a new prototype instance of this class's created proxy object,
 	 * backed by an independent AdvisedSupport configuration.
